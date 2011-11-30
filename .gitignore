@@ -1,0 +1,7 @@
+*.o
+*.save
+tags
+*xcuserdata*
+*xcworkspace*
+test/*
+
